@@ -13,6 +13,7 @@ public class Main {
         userDaoJDBC.createUsersTable();
         userDaoJDBC.saveUser("Tantyana", "Fedorova", (byte) 25);
         userDaoJDBC.saveUser("Tantyana", "Fedorova", (byte) 25);
+        userDaoJDBC.saveUser("Tantyana", "Fedorova", (byte) 25);
         userDaoJDBC.saveUser("Olga", "Petrova",(byte) 34);
         userDaoJDBC.saveUser("Igor", "Serov", (byte) 26);
         userDaoJDBC.saveUser("Nikolay", "Egorov", (byte) 23);
