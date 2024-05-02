@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+.idea/
+mysql-connector-j-8.3.0/
+target/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
